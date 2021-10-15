@@ -633,7 +633,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/landtoni/proprietary/vendor/lib/libubifocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libubifocus.so \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/hw/fingerprint.land_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.land_fpc.so \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/hw/fingerprint.land_goodix.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.land_goodix.so \
-    vendor/xiaomi/landtoni/proprietary/vendor/lib64/hw/fingerprint.santoni_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.santoni.fpc.so \
+    vendor/xiaomi/landtoni/proprietary/vendor/lib64/hw/fingerprint.santoni_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.santoni_fpc.so \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/hw/fingerprint.santoni_goodix.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.santoni_goodix.so \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/hw/gxfingerprint.land.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gxfingerprint.land.so \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/hw/gxfingerprint.santoni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gxfingerprint.santoni.so \
