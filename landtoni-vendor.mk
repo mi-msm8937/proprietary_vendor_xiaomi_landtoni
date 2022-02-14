@@ -29,20 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/camera/ov5675_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov5675_ofilm_chromatix.xml \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/camera/s5k3l8_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_ofilm_chromatix.xml \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/camera/s5k5e8_sunny_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_sunny_chromatix.xml \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/MTP_Bluetooth_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/MTP_General_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/MTP_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/MTP_Global_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/MTP_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/MTP_Handset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/MTP_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/MTP_Hdmi_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/MTP_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/MTP_Headset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/MTP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/MTP_Speaker_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/QRD/QRD_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/QRD/QRD_Bluetooth_cal.acdb \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/QRD/QRD_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/QRD/QRD_General_cal.acdb \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/land_acdbdata/QRD/QRD_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/land_acdbdata/QRD/QRD_Global_cal.acdb \
@@ -62,20 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/qdcm_calib_data_ili9881c_HD720p_video_EbbgDJN.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ili9881c_HD720p_video_EbbgDJN.xml \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/qdcm_calib_data_ili9881c_HD720p_video_Tianma.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ili9881c_HD720p_video_Tianma.xml \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG.xml \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/MTP_Bluetooth_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/MTP_General_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/MTP_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/MTP_Global_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/MTP_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/MTP_Handset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/MTP_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/MTP_Hdmi_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/MTP_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/MTP_Headset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/MTP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/MTP_Speaker_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb \
-    vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/QRD/QRD_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/QRD/QRD_Bluetooth_cal.acdb \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/QRD/QRD_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/QRD/QRD_General_cal.acdb \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/santoni_acdbdata/QRD/QRD_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/QRD/QRD_Global_cal.acdb \
